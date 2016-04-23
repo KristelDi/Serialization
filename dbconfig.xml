@@ -1,0 +1,8 @@
+<class type='main.SerializationObject'>
+	<dialect>org.hibernate.dialect.MySQLDialect</dialect>
+	<connection_driver_class>com.mysql.jdbc.Driver</connection_driver_class>
+	<connection_url>jdbc:mysql://localhost:3306/java1</connection_url>
+	<hbm2ddl_auto>create-drop</hbm2ddl_auto>
+	<show_sql>true</show_sql>
+	<maxtime>10</maxtime>
+</class>

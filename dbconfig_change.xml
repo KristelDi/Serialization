@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<serializationObject>
+    <connection_driver_class>default</connection_driver_class>
+    <connection_url>localhost</connection_url>
+    <dialect>PostgreSQLDialect</dialect>
+    <hbm2ddl_auto>default</hbm2ddl_auto>
+    <maxtime>100</maxtime>
+    <show_sql>default</show_sql>
+</serializationObject>
